@@ -21,7 +21,19 @@ Where the single-source money sits:
 - Appeals are vanishing from the record: 142 contracts carried one in 2018, 18 so far in 2026, 0.08 percent.
 
 Method, procedure mapping, caveats (six keyed-in values above 100 billion AMD were dropped; the appeal field
-is free text) and five CSVs are in the repo. Everything is aggregate; no individuals are named.
+is free text) and five CSVs are in the repo: https://github.com/SosoPkhakadze/reestri-data/tree/main/am-contracts Everything is aggregate; no individuals are named.
 
 The underlying index is queryable per supplier by tax ID or name, refreshed weekly:
 https://apify.com/reestri/am-supplier-contracts
+
+---
+
+## LinkedIn page version (Reestri page voice, about 120 words)
+
+Armenia cut single-source public contracts from 52 percent of spend in 2018 to 7 percent in 2024. By count, four in ten procedures are still awarded without competition.
+
+We indexed 236,159 signed contracts from PPCM, Armenia's procurement portal. Where the non-competitive money sits: the Ministry of Health signed 486.7 billion AMD without tenders, 47 percent of all single-source value. The largest single-source suppliers are state companies: Public Television, Electric Networks of Armenia, HayPost, Gazprom Armenia. 1,080 companies get over 90 percent of their public revenue from one buyer. Appeals fell from 142 contracts in 2018 to 18 in 2026.
+
+Method, caveats and five CSV tables, free: https://github.com/SosoPkhakadze/reestri-data
+
+The index behind it is queryable per supplier, refreshed weekly: https://apify.com/reestri/am-supplier-contracts
