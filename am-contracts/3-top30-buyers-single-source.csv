@@ -1,0 +1,31 @@
+rank,buyer_tax_id,buyer_name,buyer_name_en,buyer_type,single_source_value_amd,single_source_contracts,all_value_amd,all_contracts,single_source_share_of_spend_pct,single_source_share_of_count_pct,distinct_suppliers,distinct_single_source_suppliers
+1,02507171,ՀՀ  առողջապահության  նախարարություն,Ministry Of health of the Republic of Armenia,GOVERNMENTAL,486685298874,6788,694913788942,12259,70.04,55.37,1038,709
+2,02578338,ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարություն,Ministry Territorial Administration and Infrastructure of the Republic of Armenia,GOVERNMENTAL,84279806235,1355,717356223567,3905,11.75,34.7,657,241
+3,01539597,«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ,SI “ADMINISTRATION OF THE COUNCIL OF PUBLIC BROADCASTER”,GOVERNMENTAL,61824011075,260,63648315193,316,97.13,82.28,79,65
+4,02522157,ՀՀ  պաշտպանության  նախարարություն,Ministry of defense of the Republic of Armenia,GOVERNMENTAL,60121566353,1402,293683491018,8508,20.47,16.48,1489,375
+5,01533334,ՀՀ ներքին գործերի նախարարություն,Ministry of Internal Affairs of the Republic of Armenia,GOVERNMENTAL,51906541081,2865,163732141060,9451,31.7,30.31,1614,557
+6,02593108,Երևանի քաղաքապետարան,Yerevan municipality,URBAN,21892054730,1691,266187908939,13704,8.22,12.34,2168,463
+7,02565827,ՀՀ քաղաքաշինության կոմիտե,City planning Committee of the Republic of Armenia,GOVERNMENTAL,17221781051,815,470188748197,2658,3.66,30.66,422,180
+8,04401874,«Հայկական ատոմային էլեկտրակայան» ՓԲԸ,,OTHER,17076141750,279,94121631775,3473,18.14,8.03,911,151
+9,02647057,ՀՀ պետական եկամուտների կոմիտե,State Revenue Committee State Revenue Committee of the Republic of Armenia,GOVERNMENTAL,14838050009,970,128152375255,3617,11.58,26.82,992,332
+10,02565518,ՀՀ բարձր տեխնոլոգիական արդյունաբերության նախարարություն,Ministry of High-Tech Industry of the Republic of Armenia,GOVERNMENTAL,14746677776,1644,114231071886,4472,12.91,36.76,1428,399
+11,02505511,Միասնական սոցիալական ծառայություն,UNIFIED SOCIAL SERVICE,GOVERNMENTAL,14276397832,882,21633144077,8040,65.99,10.97,3287,291
+12,02902959,Պրոբացիայի ծառայություն,Probation Service,GOVERNMENTAL,11749425106,137,12518412288,240,93.86,57.08,114,64
+13,02528489,ՀՀ տարածքային կառավարման և ենթակառուցվածքների  նախարարության  պետական գույքի կառավարման կոմիտե,State Property management Committee of the Ministry of territorial administration and infrastructure of the Republic of Armenia,GOVERNMENTAL,11031206649,362,19772552205,614,55.79,58.96,163,70
+14,01540062,«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ,,OTHER,10622017237,4100,15398451880,4919,68.98,83.35,1441,1232
+15,02704199,Բարձրագույն կրթության և գիտության կոմիտե,Higher Education and Science Committee,GOVERNMENTAL,10446742088,236,24991447650,437,41.8,54,150,82
+16,02583241,Դատական դեպարտամենտ,Judicial Department,GOVERNMENTAL,9857049554,1849,20515666465,4348,48.05,42.53,744,222
+17,02507198,ՀՀ շրջակա միջավայրի նախարարություն,Ministry of environment of the Republic of Armenia,GOVERNMENTAL,9653378521,896,31561764022,1544,30.59,58.03,428,242
+18,02505983,ՀՀ էկոնոմիկայի նախարարություն,Ministry of economy of the Republic of Armenia,GOVERNMENTAL,9370705608,2304,56937715194,4378,16.46,52.63,1359,421
+19,02505554,ՀՀ վարչապետի աշխատակազմ,Office of the Prime Minister of the Republic of Armenia,GOVERNMENTAL,8108257936,2249,43716317444,5401,18.55,41.64,1192,548
+20,01507079,ՀՀ ազգային անվտանգության ծառայություն,National security service of the Republic of Armenia,GOVERNMENTAL,7760983118,241,30140369557,2995,25.75,8.05,750,76
+21,02512868,"ՀՀ կրթության, գիտության, մշակույթի և սպորտի նախարարություն","Ministry of education, science, culture and sports of the Republic of Armenia",GOVERNMENTAL,7557369730,863,222473175732,6321,3.4,13.65,1504,314
+22,02555816,ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե,Water Committee of the Ministry of territorial administration and infrastructure of the Republic of Armenia,GOVERNMENTAL,6466751563,465,63969988571,1115,10.11,41.7,320,157
+23,02506264,ՀՀ  արդարադատության նախարարություն,Ministry of justice of the Republic of Armenia,GOVERNMENTAL,5641902762,841,28580310141,1942,19.74,43.31,581,252
+24,02204739,ՀՀ արդարադատության նախարարության քրեակատարողական ծառայություն,Criminal Executive service of the Ministry of justice of the Republic of Armenia,GOVERNMENTAL,5151313161,349,37044176290,1520,13.91,22.96,532,117
+25,02527728,ՀՀ արտաքին գործերի  նախարարություն,Ministry of foreign affairs of the Republic of Armenia,GOVERNMENTAL,4568010205,3629,7329099323,4231,62.33,85.77,644,547
+26,02631263,ՀՀ քննչական կոմիտե,Investigative Committee of the Republic of Armenia,GOVERNMENTAL,4181897948,970,17082558507,21546,24.48,4.5,907,298
+27,01223338,ՀՀ արդարադատության նախարարության հարկադիր կատարումն ապահովող ծառայություն,Compulsory enforcement service of the Ministry of justice of the Republic of Armenia,GOVERNMENTAL,3930276291,652,6716157391,2029,58.52,32.13,547,117
+28,06901936,«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ,"""Vanadzor Municipality staff"" CAO",URBAN,3829132401,302,18715836115,1056,20.46,28.6,344,125
+29,00846441,«Հայաստանի տարածքային զարգացման հիմնադրամ»,Armenian Territorial Development Fund,OTHER,3383295615,550,537705752076,1849,0.63,29.75,512,187
+30,02629081,ՀՀ ֆինանսների նախարարություն,Ministry of Finance of the Republic of Armenia,GOVERNMENTAL,3280398639,785,16511971082,1356,19.87,57.89,464,291
