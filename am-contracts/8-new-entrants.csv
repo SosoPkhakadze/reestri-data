@@ -1,0 +1,24 @@
+row_type,cohort_first_contract_year,new_suppliers,new_companies,new_individual_entrepreneurs,new_suppliers_share_of_active_suppliers_pct,first_year_value_amd,first_year_value_share_of_year_pct,companies_first_year_value_amd,lifetime_value_to_date_amd,companies_lifetime_value_to_date_amd,lifetime_contracts_to_date,rank,supplier_tax_id,supplier_name,first_contract,first_contract_year,first_buyer_tax_id,first_buyer_name,first_buyer_name_en,contracts_to_date,value_to_date_amd,distinct_buyers,single_source_share_of_value_pct,first_buyer_share_of_value_pct
+context,2018,1228,916,312,39.97,20129097654,9.34,19547831984,330769090049,328231328056,16488,,,,,,,,,,,,,
+context,2019,1330,947,383,37.79,23235483516,9.2,22461272336,204334026522,196192176587,16052,,,,,,,,,,,,,
+context,2020,1443,1004,439,38.23,59090555909,14.68,57780789402,366710251077,362626785034,13436,,,,,,,,,,,,,
+context,2021,2810,2146,664,54.87,68286222139,20.66,66749566585,323856163051,318629342566,16727,,,,,,,,,,,,,
+cohort,2022,2573,1831,742,40.3,103788225619,17.01,101416904986,474920895885,466626028816,14576,,,,,,,,,,,,,
+cohort,2023,2568,1754,814,34.56,71707191442,11.26,68690652918,221745133507,216612765055,15582,,,,,,,,,,,,,
+cohort,2024,2917,1630,1287,37.42,122632753742,14.98,119633956622,243782938630,238463094919,14309,,,,,,,,,,,,,
+cohort,2025,2550,1465,1085,36.6,56528507326,7.76,53735790503,84715341222,81001682271,10348,,,,,,,,,,,,,
+top15_new_entrant_since_2022,,,,,,,,,,,,1,08914368,ԷԿՈ ԲԻԼԴԻՆԳ ՍՊԸ,2022-05-08,2022,02593108,Երևանի քաղաքապետարան,Yerevan municipality,51,75836974744,5,0,0.64
+top15_new_entrant_since_2022,,,,,,,,,,,,2,02303869,Վասպուրականի ՃՇՇ,2023-11-16,2023,02578338,ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարություն,Ministry Territorial Administration and Infrastructure of the Republic of Armenia,49,49702123253,7,0,86.72
+top15_new_entrant_since_2022,,,,,,,,,,,,3,02861537,«ԵՎՐՈԲՈՒԴ ՊԼՅՈՒՍ» ՍՊԸ,2023-04-19,2023,04401882,Արմավիրի համայնքապետարան,Armavir community municipality,26,29372243772,4,0,0.66
+top15_new_entrant_since_2022,,,,,,,,,,,,4,02847546,ՍԻ ՓԻ ԷՍ ԷՆԵՐՋԻ ԳՐՈՒՊ ՍՊԸ,2022-01-03,2022,02505554,ՀՀ վարչապետի աշխատակազմ,Office of the Prime Minister of the Republic of Armenia,241,27220991568,102,0.39,0.44
+top15_new_entrant_since_2022,,,,,,,,,,,,5,02847373,ԱՐԿԱԴԻԱ ՇԻՆ ՍՊԸ,2022-04-28,2022,02565827,ՀՀ քաղաքաշինության կոմիտե,City planning Committee of the Republic of Armenia,28,21841827817,3,0,11.47
+top15_new_entrant_since_2022,,,,,,,,,,,,6,02315582,ԱՐՄԱՏ ՔՈՆՍԹՐԱՔՇՆ ՓԲԸ,2024-09-19,2024,00846441,Հայաստանի տարածքային զարգացման հիմնադրամ,Armenian Territorial Development Fund,17,21483293500,2,0,99.55
+top15_new_entrant_since_2022,,,,,,,,,,,,7,05019792,«Ավանգարդ շին» ՍՊԸ,2022-09-28,2022,05005705,Աշտարակի համայնքապետարան,Ashtarak community municipality,28,20869918754,7,2.37,4.29
+top15_new_entrant_since_2022,,,,,,,,,,,,8,08466122,Groot JTH s.r.o.,2024-03-11,2024,04401874,«Հայկական ատոմային էլեկտրակայան» ՓԲԸ,,1,17769898397,1,0,100
+top15_new_entrant_since_2022,,,,,,,,,,,,9,01333953,ԱՄՎ ՊԱՐՏՆԵՐ ՍՊԸ,2024-05-23,2024,02578338,ՀՀ տարածքային կառավարման և ենթակառուցվածքների նախարարություն,Ministry Territorial Administration and Infrastructure of the Republic of Armenia,7,17124366269,3,0,44.88
+top15_new_entrant_since_2022,,,,,,,,,,,,10,00178968,ՇԻՆՎԵԿՏՈՐ ՍՊԸ,2024-05-30,2024,00846441,Հայաստանի տարածքային զարգացման հիմնադրամ,Armenian Territorial Development Fund,7,16947032483,1,0,100
+top15_new_entrant_since_2022,,,,,,,,,,,,11,5261029614,Enigma Systemy Ochrony Informacji Sp. z o.o. ,2022-04-11,2022,02506264,ՀՀ  արդարադատության նախարարություն,Ministry of justice of the Republic of Armenia,9,13009874272,2,90.28,5.78
+top15_new_entrant_since_2022,,,,,,,,,,,,12,02308811,«Ֆասթ Սքան» ՍՊԸ,2023-07-26,2023,02647057,ՀՀ պետական եկամուտների կոմիտե,State Revenue Committee State Revenue Committee of the Republic of Armenia,1,12499446032,1,0,100
+top15_new_entrant_since_2022,,,,,,,,,,,,13,05543213,ԿԻՐ - ՔԱՐ ՍՊԸ,2022-09-21,2022,06101029,Արթիկի համայնքապետարան,Artik community municipality,23,12415821698,9,0,0.09
+top15_new_entrant_since_2022,,,,,,,,,,,,14,02315342,ԳՐԱՆԴ ԱԼՅԱՆՍ ՍՊԸ,2024-05-06,2024,00846441,Հայաստանի տարածքային զարգացման հիմնադրամ,Armenian Territorial Development Fund,7,11036400000,2,0,96.85
+top15_new_entrant_since_2022,,,,,,,,,,,,15,02708397,«Բնակարան երիտասարդներին» վերաֆինանսավորում իրականացնող վարկային կազմակերպություն փակ բաժնետիրական ընկերությունը,2022-01-17,2022,02512868,"ՀՀ կրթության, գիտության, մշակույթի և սպորտի նախարարություն","Ministry of education, science, culture and sports of the Republic of Armenia",7,10866563300,1,0,100
