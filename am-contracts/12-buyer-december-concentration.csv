@@ -1,0 +1,31 @@
+rank,buyer_tax_id,buyer_name,buyer_name_en,buyer_type,contracts_2018_2025,value_2018_2025_amd,december_contracts,december_value_amd,december_share_of_value_pct,december_share_of_count_pct,december_single_source_share_of_value_pct,december_urgent_share_of_value_pct,active_years,years_with_a_december_contract
+1,00259325,ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության միգրացիոն ծառայություն,Мigration service of the Ministry of territorial administration and infrastructure of the Republic of Armenia,GOVERNMENTAL,386,1548737498,43,1286548146,83.07,11.14,0.23,0,6,6
+2,01539597,«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ,SI “ADMINISTRATION OF THE COUNCIL OF PUBLIC BROADCASTER”,GOVERNMENTAL,248,55522992647,42,21858940200,39.37,16.94,99.63,0,8,8
+3,02545976,ՀՀ արտաքին գործերի նախարարության պետական արարողակարգի ծառայություն,State Protocol service of the Ministry of foreign Affairs of the Republic of Armenia,GOVERNMENTAL,1952,1591606902,203,557516131,35.03,10.4,99.51,0,8,8
+4,02204739,ՀՀ արդարադատության նախարարության քրեակատարողական ծառայություն,Criminal Executive service of the Ministry of justice of the Republic of Armenia,GOVERNMENTAL,1184,31010382135,103,9483079456,30.58,8.7,2.27,9.1,8,8
+5,00476409,Էկոպարեկային ծառայություն,Ecopatrol service,GOVERNMENTAL,968,8797105523,182,2605737905,29.62,18.8,12.49,39.01,8,8
+6,06969135,ՀՀ Լոռու մարզպետի աշխատակազմ,Staff of Lori marzpet of the Republic of Armenia,GOVERNMENTAL,1446,5547483649,151,1534535151,27.66,10.44,13.05,28.49,8,8
+7,04447253,ՀՀ  Արմավիրի մարզպետի աշխատակազմ,Staff of Armavir Marzpet of the Republic of Armenia,GOVERNMENTAL,1320,3592109510,272,963974981,26.84,20.61,1.08,27.96,8,8
+8,01507079,ՀՀ ազգային անվտանգության ծառայություն,National security service of the Republic of Armenia,GOVERNMENTAL,2408,23646137562,265,6090742674,25.76,11,0.52,2.03,8,8
+9,01541435,«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ,,OTHER,1397,1221467985,277,276628760,22.65,19.83,85.47,0,8,8
+10,08601459,«ՀՀ Սևանի հոգեկան առողջության կենտրոն» ՓԲԸ,«Sevan mental health center» CJSC,OTHER,937,1740634011,75,383352766,22.02,8,0.15,0.02,8,7
+11,03022497,Չարենցավանի համայնքապետարան,Municipality of Charencavan,URBAN,535,4067081870,87,881988509,21.69,16.26,2.29,0,8,7
+12,04707075,«Էջմիածնի բժշկական կենտրոն» ՓԲԸ,"""Medical Center of Ejmiatsin"" CJSC",OTHER,466,1216151662,125,253806138,20.87,26.82,0,0,6,6
+13,05507437,ՀՀ Շիրակի մարզպետի աշխատակազմ,Staﬀ of Shirak Marzpet of tհe Republic of Armenia,GOVERNMENTAL,1451,4655743121,85,912121901,19.59,5.86,2.92,24.43,8,8
+14,02631263,ՀՀ քննչական կոմիտե,Investigative Committee of the Republic of Armenia,GOVERNMENTAL,17759,12896021407,2208,2514864384,19.5,12.43,59.33,1.57,8,8
+15,04214258,«Մելիորացիա» ՓԲԸ,,OTHER,69,572197383,6,105229000,18.39,8.7,0,0,6,3
+16,02507171,ՀՀ  առողջապահության  նախարարություն,Ministry Of health of the Republic of Armenia,GOVERNMENTAL,8868,560239553437,1283,100300936938,17.9,14.47,83.06,4.57,8,8
+17,01503448,«Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ,,OTHER,5165,22838341971,579,3818147524,16.72,11.21,19.24,2.38,8,8
+18,00008519,ՀՀ Ազգային ժողովի աշխատակազմ,Staff of the National Assembly of the Republic of Armenia,GOVERNMENTAL,1197,5120238532,98,854893369,16.7,8.19,35.28,21.59,8,8
+19,01002597,«Երևան» բժշկագիտական կենտրոն ՓԲԸ,“YEREVAN” MEDICAL AND SCIENTIFIC CENTER CJSC,OTHER,198,1463954389,19,243134175,16.61,9.6,0,0,2,2
+20,06107489,«Արթիկի  բժշկական  կենտրոն»  ՓԲԸ,,OTHER,451,663967792,7,110157003,16.59,1.55,0.11,0,8,5
+21,02507464,«Հայփոստ» ՓԲԸ,«Haypost» CJSC,OTHER,680,2086009676,76,342442459,16.42,11.18,68.66,0,8,4
+22,07628257,ՀՀ Տավուշի մարզպետի աշխատակազմ,Staff of Tavush Marzpet of the Republic of Armenia,GOVERNMENTAL,966,5746068957,61,908433355,15.81,6.31,26.95,51.25,8,7
+23,08428824,ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ,Staff of Gegharqunik Marzpet of the Republic of Armenia,GOVERNMENTAL,1176,6276054066,94,990272168,15.78,7.99,1.03,53.22,8,8
+24,05511159,ՀՀ Շիրակի մարզ «Գյումրու համայնքապետարանի աշխատակազմ» ՀԿՀ,RA Shirak region “Gyumri municipality staff” CAO,URBAN,73,837196387,4,129488226,15.47,5.48,0,0,7,2
+25,07619891,«Մոնթե Մելքոնյանի անվան ռազմամարզական վարժարան» հիմնադրամ,,OTHER,77,2049061677,6,314722666,15.36,7.79,0,0,7,4
+26,00006796,ՀՀ պետական պահպանության ծառայություն,State security service of the Republic of Armenia,GOVERNMENTAL,991,2623569480,93,401435441,15.3,9.38,10.19,5.53,8,8
+27,01533334,ՀՀ ներքին գործերի նախարարություն,Ministry of Internal Affairs of the Republic of Armenia,GOVERNMENTAL,7298,128416695423,913,19328939057,15.05,12.51,14.19,11.29,8,8
+28,07619196,ՀՀ Տավուշի մարզի Նոյեմբերյանի համայնքապետարան,Noyyemberyan community hall of Tavush State of RA,URBAN,162,767615414,17,114150952,14.87,10.49,0,0,8,3
+29,02205028,«Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ,,OTHER,743,3741915958,48,529284128,14.14,6.46,69.09,1.01,8,8
+30,02647057,ՀՀ պետական եկամուտների կոմիտե,State Revenue Committee State Revenue Committee of the Republic of Armenia,GOVERNMENTAL,3007,112760322079,451,15933180545,14.13,15,11.97,12.47,8,8
